@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "135534333361",
+    "firebase_url": "https://zradh-c81bd.firebaseio.com",
+    "project_id": "zradh-c81bd",
+    "storage_bucket": "zradh-c81bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135534333361:android:11b5ea61599f19b7468190",
+        "android_client_info": {
+          "package_name": "com.zenith.qrgx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135534333361-iim3a2qriesvrh507ppsor0aspcvlrp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCQ1HpYrrax3GVmXhQm9SUhj7IpQx8uqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135534333361-iim3a2qriesvrh507ppsor0aspcvlrp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7280152329525075~9789127169"
+    }
+  ],
+  "configuration_version": "1"
+}
